@@ -1,6 +1,6 @@
 {
-	"miniprogramRoot": "./client",
-	"qcloudRoot": "./server",
+	"miniprogramRoot": "client/",
+	"qcloudRoot": "server/",
 	"setting": {
 		"urlCheck": false,
 		"es6": true,
@@ -8,8 +8,8 @@
 		"minified": true,
 		"newFeature": true
 	},
-	"appid": "你的 App ID",
-	"projectname": "cn-wechat-term2",
+	"appid": "wxe1a6b577c01b33fb",
+	"projectname": "store-demo",
 	"condition": {
 		"search": {
 			"current": -1,
